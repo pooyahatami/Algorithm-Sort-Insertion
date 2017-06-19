@@ -1,3 +1,13 @@
+ /*
+ * Insertion sort algorithm !
+ * Class	Sorting algorithm
+ * Data structure	Array
+ * Worst-case performance	О(n2) comparisons, swaps
+ * Best-case performance	O(n) comparisons, O(1) swaps
+ * Average performance	О(n2) comparisons, swaps
+ * Worst-case space complexity
+ */
+
 var rectis = require('./Insertion-Sort');
 
 var arrin01 = [-20, -8 , 48, 120, 220 , 390 , 1000 ];
