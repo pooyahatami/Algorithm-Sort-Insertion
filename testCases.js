@@ -13,7 +13,8 @@ function solveIS(arr) {
     console.log("Success attempt to sort array ["+arr_original+" ] and result is : [ "
                 + result + " ]" );
     }
-        
+       
+   console.log("----------------------------------------------------------");       
 }
 
 solveIS(arrin01);
