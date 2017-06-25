@@ -13,7 +13,7 @@
  * Author: Pooya Hatami
  */
 
-var rectis = require('./Insertion-Sort');
+var rectis = require('./node-sort-insertion');
 
 var arrin01 = [-20, -8 , 48, 120, 220 , 390 , 1000 ];
 var arrin02 = [20, -8 , 480 , 120, 220 , 390 , 1000 ];
