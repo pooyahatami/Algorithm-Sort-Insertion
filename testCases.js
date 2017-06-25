@@ -6,6 +6,12 @@
  * Best-case performance	O(n) comparisons, O(1) swaps
  * Average performance	О(n2) comparisons, swaps
  * Worst-case space complexity
+ *   where n is the size of the input array.
+ *   
+ *   Note: Insertion sort is very similar to selection sort.
+ *         Category : Comparison sorts.
+ *
+ * Author: Pooya Hatami
  */
 
 var rectis = require('./Insertion-Sort');
