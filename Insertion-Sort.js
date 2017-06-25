@@ -2,11 +2,17 @@
  * Insertion sort algorithm !
  * Class	Sorting algorithm
  * Data structure	Array
+ * Category : Comparison sorts.
  * Worst-case performance	О(n2) comparisons, swaps
  * Best-case performance	O(n) comparisons, O(1) swaps
  * Average performance	О(n2) comparisons, swaps
  * Worst-case space complexity
+ *   where n is the size of the input array.
+ *   Note: Insertion sort is very similar to selection sort.
+ *
+ * Author: Pooya Hatami
  */
+
 
 exports.insertionSort = function(inputArray) {
   if(!inputArray) return -1;
