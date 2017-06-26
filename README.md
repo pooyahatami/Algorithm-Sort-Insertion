@@ -52,7 +52,7 @@ var rectis = require('./node-sort-insertion');
 var result = rectis.insertionSort(InputArray);
 ```
  * Sort Array of integers.
- * Array's element shoud be integers.
+ * Array's element shoud be integers (Psitive/Negative).
  * Returns the Sorted Array or -1 if not found valid input.
 
 ## example
@@ -259,4 +259,4 @@ Other Sorting Algorithms :
 
 ## References:
  * https://en.wikipedia.org/wiki/Insertion_sort
- * http://www.geeksforgeeks.org/insertion-sort/t
+ * http://www.geeksforgeeks.org/insertion-sort
