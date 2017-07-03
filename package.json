@@ -1,18 +1,51 @@
 {
-  "name": "node-sort-insertion",
-  "description": "Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands.",
-  "version": "1.0.2",
-  "repository": {
-    "url": "https://github.com/pooyahatami/Algorithm-Sort-Insertion"
+  "_from": "node-sort-insertion",
+  "_id": "node-sort-insertion@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-QIRffOwIIhoWvFEhodSGh1aibo8=",
+  "_location": "/node-sort-insertion",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "node-sort-insertion",
+    "name": "node-sort-insertion",
+    "escapedName": "node-sort-insertion",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
-  "main": "node-sort-insertion.js",
-  "scripts": {
-    "test": "test-Cases/*.js"
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-sort-insertion/-/node-sort-insertion-1.0.2.tgz",
+  "_shasum": "40845f7cec08221a16bc5121a1d4868756a26e8f",
+  "_spec": "node-sort-insertion",
+  "_where": "C:\\inetpub\\nodejs\\node-sort-insertion",
+  "author": {
+    "name": "Pooya Hatami",
+    "email": "am.hatami@yahoo.com"
   },
-  "author": "Pooya Hatami <am.hatami@yahoo.com>",
+  "bugs": {
+    "url": "https://github.com/pooyahatami/Algorithm-Sort-Insertion/issues"
+  },
+  "bundleDependencies": false,
   "dependencies": {},
+  "deprecated": false,
+  "description": "Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands.",
   "devDependencies": {
     "tap": "~0.4.1"
   },
-  "license": "MIT"
+  "homepage": "https://github.com/pooyahatami/Algorithm-Sort-Insertion#readme",
+  "license": "MIT",
+  "main": "node-sort-insertion.js",
+  "name": "node-sort-insertion",
+  "repository": {
+    "url": "git+https://github.com/pooyahatami/Algorithm-Sort-Insertion.git"
+  },
+  "scripts": {
+    "test": "test-Cases/*.js"
+  },
+  "version": "2.0.2"
 }
