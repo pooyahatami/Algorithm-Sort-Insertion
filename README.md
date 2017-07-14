@@ -110,6 +110,8 @@ solveSorting(arrin11);
 solveSorting(arrin12);
 ```
 
+![Insertion Sort](https://raw.githubusercontent.com/pooyahatami/Algorithm-Sort-Insertion/master/img/Insertion_sort.gif)
+
 **The Insertion Sort Algorithm**
 // Sort an arr[] of size n
 insertionSort(arr, n)
